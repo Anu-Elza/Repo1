@@ -14,7 +14,9 @@ public class Exabstractionchild extends Exabstraction {
 
 	@Override
 	public void display2() {
-		System.out.println("Abstract method");
+		System.out.println("Abstract methode");
+		System.out.println("e");
+		
 		
 	}
 
